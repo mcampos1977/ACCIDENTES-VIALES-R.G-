@@ -1,4 +1,4 @@
-Objetivo del proyecto
+
 
 
 ## Project Organization
