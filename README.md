@@ -1,6 +1,6 @@
-Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial.
-Politécnico Malvinas Argentinas.
-Aprendizaje Automático
+#Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial.
+#Politécnico Malvinas Argentinas.
+#Aprendizaje Automático
 
 
 
