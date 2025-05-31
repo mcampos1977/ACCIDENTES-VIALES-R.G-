@@ -30,7 +30,7 @@ Por lo antes expuesto es de mucha importancia utilizar buenas técnicas de    Ap
 
 *Lenguaje python
 
-*power bi, excel para ETL
+*excel para ETL
 
 *Estructura cookiecutter
 
