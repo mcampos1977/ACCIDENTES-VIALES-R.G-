@@ -1,7 +1,10 @@
-## Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial.
-### Politécnico Malvinas Argentinas.
-### Aprendizaje Automático.
-### Alumna: Campos, Mara del Carmen.
+## Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial
+
+### Politécnico Malvinas Argentinas
+
+### Aprendizaje Automático
+
+## Alumna: Campos Mara del Carmen
 
 ## Título del Proyecto: Accidentología vial y Consumo de alcohol en la Conducción.-
 
