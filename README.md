@@ -42,7 +42,7 @@ Por lo antes expuesto es de mucha importancia utilizar buenas técnicas de    Ap
 *colab
 
 
-## Estructura del Repositorio##
+## Estructura del Repositorio ##
 
 
 ├── LICENSE            <-ACCIDENTES_VIALES_RG        
