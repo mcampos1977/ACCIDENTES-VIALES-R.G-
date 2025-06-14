@@ -42,7 +42,7 @@ Por lo antes expuesto es de mucha importancia utilizar buenas técnicas de    Ap
 *colab
 
 
-## Project Organization
+## Estrcutura del Repositorio 
 
 ```
 ├── LICENSE            <- Open-source license if one is chosen
