@@ -56,7 +56,7 @@ Por lo antes expuesto es de mucha importancia utilizar buenas técnicas de    Ap
 │
 ├── notebooks          <- accidentes_ final_csv.ipynb carga_analisis_exploratorio.ipynb
 ├── referencias         <- Diccionario de Datos 
-├── reports/informes    <- informe y recomendaciones en formato PDF  enlace del video 
+├── reports/informes    <- informe y recomendaciones en formato PDF  enlace del video https://drive.google.com/file/d/1eLxFiQ4e8PmvRD_D8ikP3tDMPf5dcaSg/view?usp=drive_link
 
 
 
