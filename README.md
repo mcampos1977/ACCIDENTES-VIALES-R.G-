@@ -8,7 +8,6 @@
 
 ## Título del Proyecto: Accidentología vial y Consumo de alcohol en la Conducción.-
 
-![Portada del Proyecto](notebooks/Screenshot_20250618_134502_Chrome.jpg)
 
 ### Descripción General del Proyecto y objetivo:
 
