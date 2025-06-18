@@ -9,6 +9,9 @@
 ## Título del Proyecto: Accidentología vial y Consumo de alcohol en la Conducción.-
 
 ![Portada del Proyecto](https://github.com/mcampos1977/ACCIDENTES-VIALES-R.G-/blob/04a1f53f98115e91cd08ebb87e3200d4320b42aa/Screenshot_20250618_134502_Chrome.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mcampos1977/ACCIDENTES-VIALES-R.G-/main/notebooks/Screenshot_20250618_134502_Chrome.jpg" width="30%">
+</p>
 
 
 ### Descripción General del Proyecto y objetivo:
