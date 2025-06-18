@@ -21,8 +21,6 @@ Por lo antes expuesto es de mucha importancia utilizar buenas técnicas de    Ap
 
 ## Preguntas de investigación:
 
-#¿Cuáles son los factores de riesgo más importantes que causan este  tipo  de accidentes en Río Grande?
-
 #¿Es posible predecir accidentes de tránsito utilizando técnicas de Aprendizaje Automático?
 
 #¿Qué decisiones son las más acertadas para contrarrestar esta problemática? 
