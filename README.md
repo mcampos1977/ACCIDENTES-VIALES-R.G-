@@ -7,9 +7,6 @@
 ## Alumna: Campos Mara del Carmen
 
 ## Título del Proyecto: Accidentología vial y Consumo de alcohol en la Conducción.-
-![Portada del proyecto](./img/Screenshot_20250618_134502_Chrome.jpg)
-
-
 
 ### Descripción General del Proyecto y objetivo:
 
