@@ -8,7 +8,8 @@
 
 ## Título del Proyecto: Accidentología vial y Consumo de alcohol en la Conducción.-
 
-{{ cookiecutter.repo_name }}/notebooks/Screenshot_20250618_134502_Chrome.jpg
+![Portada del proyecto](./Screenshot_20250618_134502_Chrome.jpg)
+/notebooks/Screenshot_20250618_134502_Chrome.jpg
 ### Descripción General del Proyecto y objetivo:
 
 Este proyecto tiene como objetivo, abordar una problemática preocupante en nuestra ciudad, como es la accidentología vial y consumo de alcohol en la conducción,esto lleva a que casi a diario se produzcan accidentes de tránsito causados por conductas imprudentes de  los conductores al  subirse a su   vehículo y los cuales  se incrementa los fines de semana. A través de Técnicas de Aprendizaje Automático, se lograría ayudar al Municipio a implementar medidas preventivas más efectivas para reducir la tasa de accidentes viales en Río Grande el objetivo es aplicar Técnicas de Aprendizaje Automático para predecir accidentes de tránsito en Río Grande, identificar los riesgos por el consumo de alcohol y desarrollar un modelo Predictivo que permita reducir significativamente  la tasa de siniestros viales en nuestra ciudad;para esto se podría aplicar técnicas de clasificación , ya que el objetivo principal es predecir si ocurrirá un accidente  o si está relacionado con el consumo de alcohol 
